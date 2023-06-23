@@ -11,7 +11,7 @@
 
 <section>
   <h1>Try Vercel.</h1>
-  <h2>Try next commit.</h2>
+  <h2>Try another commit.</h2>
 	<h1>
 		<span class="welcome">
 			<picture>
